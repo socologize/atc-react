@@ -51,7 +51,7 @@ Response Action (Действие Реагирования) — это опис�
 
 <details>
   <summary>Изначальный YAML файл (кликните, чтобы раскрыть)</summary>
-  <img src="docs/images/ra_yaml_v5.png" />
+  <img src="docs/images/ra_yaml_v6.png" />
 </details>
 
 - Автоматически сгенерированный [файл в формате Markdown](docs/Response_Actions/RA_2202_collect_email_message.md)
@@ -92,7 +92,7 @@ Response Playbook (Сценарий Реагирования) — это пла�
 
 <details>
   <summary>Изначальный YAML файл (кликните, чтобы раскрыть)</summary>
-  <img src="docs/images/rp_yaml_v5.png" />
+  <img src="docs/images/rp_yaml_v6.png" />
 </details>
 
 - Автоматически сгенерированный [файл в формате Markdown](docs/Response_Playbooks/RP_0001_phishing_email.md)
@@ -171,6 +171,7 @@ Response Playbook (Сценарий Реагирования) — это пла�
 - Тимур Зиннятуллин, [@zinint](https://twitter.com/zinint)  
 - Даниил Светлов, [@Mr_4nders0n](https://twitter.com/Mr_4nders0n)  
 - Андреас Ханкелер, [@Karneades](https://github.com/Karneades)
+- Патрик Эбрэхам, [@pjabes](https://github.com/pjabes)
 
 Вы хотели бы внести свой вклад в проект и тоже стать участником? Инструкция [CONTRIBUTING](CONTRIBUTING.md) поможет начать.  
 

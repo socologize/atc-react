@@ -50,7 +50,7 @@ Here is an example of Response Action:
 
 <details>
   <summary>Initial YAML file (click to expand)</summary>
-  <img src="docs/images/ra_yaml_v5.png" />
+  <img src="docs/images/ra_yaml_v6.png" />
 </details>
 
 - Automatically created [Markdown file](docs/Response_Actions/RA_2202_collect_email_message.md)
@@ -91,7 +91,7 @@ Here is an example of Response Playbook:
 
 <details>
   <summary>Initial YAML file (click to expand)</summary>
-  <img src="docs/images/rp_yaml_v5.png" />
+  <img src="docs/images/rp_yaml_v6.png" />
 </details>
 
 - Automatically created [Markdown file](docs/Response_Playbooks/RP_0001_phishing_email.md)
@@ -169,6 +169,7 @@ Originally analytics related to Incident Response were part of the ATC, but we d
 - Timur Zinniatullin, [@zinint](https://twitter.com/zinint)  
 - Daniil Svetlov, [@Mr_4nders0n](https://twitter.com/Mr_4nders0n)  
 - Andreas Hunkeler, [@Karneades](https://github.com/Karneades)
+- Patrick Abraham, [@pjabes](https://github.com/pjabes)
 
 Would you like to become one? You are very welcome! Our [CONTRIBUTING](CONTRIBUTING.md) guideline is a good starting point.
 
